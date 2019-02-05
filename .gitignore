@@ -2,3 +2,4 @@
 __pycache__
 .exercism
 *.pyc
+.DS_Store
